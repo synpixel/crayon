@@ -1,0 +1,23 @@
+{
+  "name": "crayon-test",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Crayon": {
+        "$path": "src",
+        "Packages": {
+          "$path": { "optional": "Packages" }
+        }
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "TestCrayon": {
+          "$path": "test/client"
+        }
+      }
+    }
+  }
+}

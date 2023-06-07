@@ -1,0 +1,10 @@
+{
+  "name": "crayon",
+  "globIgnorePaths": ["**.spec.luau"],
+  "tree": {
+    "$path": "src",
+    "Packages": {
+      "$path": { "optional": "Packages" }
+    }
+  }
+}
